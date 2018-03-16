@@ -1,0 +1,44 @@
+{
+    "Help": {
+        "name": "Help",
+        "group": "User",
+        "desc": "Displays a list of commands",
+        "usage": "help [group or command]"
+    },
+    "Ping": {
+        "name": "Ping",
+        "group": "User",
+        "desc": "Displays the bot's ping",
+        "usage": "ping"
+    },
+    "Weather": {
+        "name": "Weather",
+        "group": "User",
+        "desc": "Displays the weather of a specified location",
+        "usage": "weather <location>"
+    },
+    "Purge": {
+        "name": "Purge",
+        "group": "Moderator",
+        "desc": "Deletes a specified number of messages",
+        "usage": "purge <message amount>"
+    },
+    "Dice Roll": {
+        "name": "Dice Roll",
+        "group": "User",
+        "desc": "Rolls the dice",
+        "usage": "roll"
+    },
+    "Coin Flip": {
+        "name": "Coin Flip",
+        "group": "User",
+        "desc": "Flips a coin",
+        "usage": "flip"
+    },
+    "Fortnite": {
+        "name": "Fortnite Stats",
+        "group": "User",
+        "desc": "Shows a users Fortnite stats",
+        "usage": "fortnite <platform> <username>"
+    }
+}
